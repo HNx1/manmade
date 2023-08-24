@@ -1,5 +1,5 @@
 import numpy as np
-import opencv-python-headless as cv2
+import cv2
 import hashlib
 import scipy.stats as st
 
